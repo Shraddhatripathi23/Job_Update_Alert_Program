@@ -5,9 +5,6 @@ Creating a Job Update Alert Program in Python can be a useful project for job se
 
 <img width="1090" alt="" src="https://github.com/Shraddhatripathi23/Job_Update_Alert_Program/blob/main/Screenshot%202023-09-13%20at%2012.46.37%20AM.png">
 
-# Extracted data shown like this 
-
-<img width="1090" alt="Screenshot 2023-06-26 at 11 12 19 PM" src="https://github.com/Shraddhatripathi23/flipcard_scraping_data/assets/50836422/e699860a-e724-42d9-9a97-836a56101fd0">
 
 #### Overview:
 
