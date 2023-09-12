@@ -6,13 +6,13 @@ This project consolidates job openings from multiple platforms into one centrali
 ### 🔶  Extracted data shown like this 
 
 <img width="1090" alt="" src="https://github.com/Shraddhatripathi23/Job_Update_Alert_Program/blob/main/Screenshot%202023-09-13%20at%2012.46.37%20AM.png">
----
+
 
 ### 🔶  Overview:
 
 The Job Update Alert Program is a Python application designed to help job seekers stay informed about new job postings that match their criteria. It automates the process of searching for jobs on various job boards and sends alerts to the user when relevant positions are found.
----
-#### Features:
+
+### 🔶  Features:
 
 1. **Job Search and Aggregation:**
    - The program will utilize web scraping or API integration to search and aggregate job listings from popular job boards (e.g., LinkedIn, Indeed, Glassdoor) based on the user's specified criteria.
@@ -30,13 +30,13 @@ The Job Update Alert Program is a Python application designed to help job seeker
    - The program will ensure that user data is handled securely, adhering to privacy regulations and best practices.
 
 
-#### Technology Stack:
+### 🔶  Technology Stack:
 
 - **Programming Language:** Python
 - **Web Scraping/API:** BeautifulSoup API libraries
 - **Web Framework (optional):** Flask, Django (for user interface)
 
-#### Next Steps:
+### 🔶 Next Steps:
 
 - Define the specific Role this will take all  platforms to be included in the search.
 - Implement the web scraping or API integration for job data retrieval.
