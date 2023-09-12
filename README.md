@@ -1,15 +1,17 @@
 # Job_Update_Alert_Program
-Creating a Job Update Alert Program in Python can be a useful project for job seekers who want to stay informed about job postings that match their criteria. This program will typically involve web scraping job websites and sending notifications when new job listings meet the specified criteria.
+Creating a Job Update Alert Program in Python can be a useful project for job seekers who want to stay informed about job postings that match their criteria. This program will typically involve scraping job websites and sending notifications when new job listings meet the specified criteria.
 
-# Extracted data shown like this 
+This project consolidates job openings from multiple platforms into one centralized hub, streamlining job searching for maximum efficiency.
+
+### 🔶  Extracted data shown like this 
 
 <img width="1090" alt="" src="https://github.com/Shraddhatripathi23/Job_Update_Alert_Program/blob/main/Screenshot%202023-09-13%20at%2012.46.37%20AM.png">
+---
 
-
-#### Overview:
+### 🔶  Overview:
 
 The Job Update Alert Program is a Python application designed to help job seekers stay informed about new job postings that match their criteria. It automates the process of searching for jobs on various job boards and sends alerts to the user when relevant positions are found.
-
+---
 #### Features:
 
 1. **Job Search and Aggregation:**
